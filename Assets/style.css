@@ -1,0 +1,191 @@
+@media only screen and (max-width: 1200px) {
+    .navbar-brand {
+        margin-right: 0;
+        margin-left: 1.4rem;
+    }
+    
+    .navbar-nav {
+        margin-right: 1rem;
+    }
+  }
+.navbar {
+    background-color: white;
+    border-bottom: solid 1px #ccc;
+    padding: 2rem 0 0 0;
+}
+
+.navbar-brand {
+    padding: 20px;
+    background-color: #4aaaa5;
+    margin-bottom: 0;
+    color: white;
+    font-weight: bold;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+}
+
+.navbar-light .navbar-brand {
+    color: white;
+}
+
+.bg-light {
+    background-color: white;
+}
+
+@media only screen and (max-width: 540px) {
+    .navbar-brand {
+      margin-left: 4rem;
+    }
+  }
+
+  .navbar-toggler {
+      margin-right: 4rem;
+  }
+
+  .about-me-para {
+    word-wrap: break-word;
+    font-size: 17px;
+    color: #777777;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    line-height: 1.6;
+  }
+
+  .profile-pic {
+      float: left;
+      padding-right: 1.5rem;
+  }
+
+  .footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #666666;
+    color: white;
+    text-align: center;
+    border-top: solid 5px #4aaaa5;
+  }
+
+ main {
+     max-width: 980px;
+     /* background-color: white; */
+     padding-bottom: 6rem;
+     position: relative;
+ }
+
+ body {
+    background-image: url("https://lh3.googleusercontent.com/7qJOg4aVmM4-5eT_tqmWqN8DI2GBZ9ZBMfXLy6QuIp918DMwDrsS3aZ2MbXsTw-b4gCydQ-S_mgW2Fe3sWe_5Y92fKq11dDaM_pZ8cWerg-a34qKvYAU-CDwNdMvFFRbMpy8iah_svUHi_M8LTOU8khqKtcXBKQzr_eTdNcdM_fJMCTSG_P3_4dxO4KJuYQXSXh6JoXJUWjJK362RirPHUmiJ4cjupHpppMBwVP4pzwAfK2xGLBA8qgHkKdqh6wmgtHahA0-TBwxGpjCNJbqISYaFu_V-xArBALUM4anQTRD8IJY0a6hTxHPm87dAsAySKIuUN8sfrhrlmqE2MVSlIIkpzqEiEBiD3ZE0Xrp2WYtdKdEU8KGO3WB3Pgs9yA3XrW7monpxlXqK3HqWH7BV5SJ5wswtPJ1TA81oc26VTs2z6qf9tjdPHukD61kNI5J2nSMP2RZSx4ZMNL4p3zXSb83oYfnLCoqO8XIjep5s2zBcq0QDfpeglxkNInRkkzxKkl7uXeUgrl_xRagEtSZ50kPxMVpkT_UDt-zOfali9BmTPweX2eXn6uxj9QA6Zty0QnuSEMkMKSFinF7V9aVQf8tIjdgb9QAQ0ASqm6Wtzkh5Pr3GWPx-6lqa8zcqzQhNLuySQub8JiLu2XpwXL82Vk40j_ovLk=s400-no");
+}
+ 
+
+ .main-title {
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 32px;
+    font-weight: bold;
+  }
+ 
+  .main-underline {
+    padding-bottom: 3px;
+    border-bottom: solid 1.5px #ddd;
+    width: 95%;
+  }
+
+  .input-label {
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777777;
+    padding-top: 1rem;
+  }
+
+  button {
+    padding: 10px 20px 10px 20px;
+    background-color: #4aaaa5;
+    cursor: pointer;
+    border: none;
+    text-decoration: none;
+    color: #fff; 
+    border-radius: 3px;
+  }
+
+  .port-images {
+    width: 180px;
+    height: 120px;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.12), 0 1px 2px rgba(0,0,0,0.24);
+  }
+
+  .first {
+    /* margin-top: -35%;
+    margin-left: 2.4%; */
+    padding: 6px 69.5px;
+    /* position: absolute; */
+  }
+  
+  .second {
+    /* margin-top: -35%;
+    margin-left: 23.5%; */
+    padding: 6px 73px;
+    /* position: absolute; */
+  }
+  
+  .third {
+    /* margin-top: -20.5%;
+    margin-left: 2.4%; */
+    padding: 6px 59px;
+    /* position: absolute; */
+  }
+  
+  .fourth {
+    /* margin-top: -20.5%;
+    margin-left: 23.5%; */
+    padding: 6px 72px;
+    /* position: absolute; */
+  }
+  
+  .fifth {
+    /* margin-top: -5.8%;
+    margin-left: 2.4%; */
+    padding: 6px 59px;
+    /* position: absolute; */
+  }
+
+.img-relative-2 {
+    position: relative; 
+}
+
+.img-relative-3 {
+  position: relative; 
+}
+
+.img-relative-4 {
+  position: relative; 
+}
+
+.img-relative-5 {
+  position: relative; 
+}
+
+
+  .img-wrapper {
+    position: relative;
+   }
+  
+  .img-responsive {
+    width: 100%;
+    height: auto;
+  }
+  
+  .img-overlay {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    text-align: center;
+  }
+  
+  .img-overlay:before {
+    content: ' ';
+    display: block;
+    /* adjust 'height' to position overlay content vertically */
+    height: 60%;
+  }
+ 
